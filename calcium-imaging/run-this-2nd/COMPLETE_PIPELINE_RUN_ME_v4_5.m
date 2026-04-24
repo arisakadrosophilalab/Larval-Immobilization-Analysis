@@ -1,4 +1,4 @@
-function COMPLETE_PIPELINE_RUN_ME_v4_5(varargin)
+function COMPLETE_PIPELINE_RUN_ME_5(varargin)
 % COMPLETE_PIPELINE_RUN_ME_v4_5 - Full automated pipeline for larvae calcium imaging
 %
 % USAGE:
