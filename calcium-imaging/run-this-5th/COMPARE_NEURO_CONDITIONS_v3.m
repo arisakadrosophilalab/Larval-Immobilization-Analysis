@@ -1,4 +1,4 @@
-function COMPARE_NEURO_CONDITIONS_v3(varargin)
+function COMPARE_NEURO_CONDITIONS(varargin)
 %% COMPARE_REFINED_CONDITIONS v3.0 - Publication-Grade Statistical Comparison
 % =========================================================================
 % Comprehensive statistical comparison of refined calcium imaging data
