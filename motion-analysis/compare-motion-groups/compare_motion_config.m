@@ -53,6 +53,6 @@ cfg.export_dpi         = 300;
 cfg.export_vector      = true;
 
 % If true, use robust Y-axis limits (clip outliers beyond 1.5*IQR).
-cfg.robust_ylim        = true;
+cfg.robust_ylim        = false;
 
 end
