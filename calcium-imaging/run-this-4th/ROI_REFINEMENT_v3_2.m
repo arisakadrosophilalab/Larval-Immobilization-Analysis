@@ -1,4 +1,4 @@
-function ROI_REFINEMENT_v3_2(varargin)
+function ROI_REFINEMENT_2(varargin)
 %% ROI_REFINEMENT v3.2 - Strict Quality Control for Calcium Imaging
 % =========================================================================
 % COMPLETE VERSION - All visualization functions included
